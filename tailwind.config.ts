@@ -47,6 +47,22 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Assessment Platform Colors
+        ar: {
+          purple: "hsl(var(--ar-purple))",
+        },
+        vr: {
+          blue: "hsl(var(--vr-blue))",
+        },
+        tech: {
+          green: "hsl(var(--tech-green))",
+        },
+        warning: {
+          amber: "hsl(var(--warning-amber))",
+        },
+        success: {
+          emerald: "hsl(var(--success-emerald))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
